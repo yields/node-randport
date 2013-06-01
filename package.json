@@ -1,5 +1,6 @@
 {
   "name": "randport",
+  "version": "0.0.1",
   "description": "get a random port",
   "author": "Amir Abu Shareb <yields@icloud.com>",
   "repository": "https://github.com/yields/node-randport",
