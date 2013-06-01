@@ -1,0 +1,8 @@
+{
+  "name": "randport",
+  "description": "get a random port",
+  "author": "Amir Abu Shareb <yields@icloud.com>",
+  "repository": "https://github.com/yields/node-randport",
+  "dependencies": {},
+  "devDependencies": {}
+}
